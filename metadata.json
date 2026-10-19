@@ -1,0 +1,6 @@
+{
+  "name": "OmniPost AI - Cross-Platform Social Studio",
+  "description": "Simultaneously draft tailored posts and studio-quality visual assets for LinkedIn, Twitter/X, and Instagram with customizable tones, aspect ratios, and resolutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
